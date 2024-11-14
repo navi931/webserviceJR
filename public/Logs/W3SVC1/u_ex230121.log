@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 05:03:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-01-21 05:03:13 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2080
+2023-01-21 05:03:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 129
+2023-01-21 05:03:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 93
+2023-01-21 05:03:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 92
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 09:57:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-01-21 09:57:27 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-01-21 22:50:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-01-21 22:50:40 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2012
+2023-01-21 22:50:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 127

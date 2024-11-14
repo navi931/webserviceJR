@@ -1,0 +1,60 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 02:52:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 02:52:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 03:26:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 03:26:31 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 305
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 04:46:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 04:46:08 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2552
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 05:02:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 05:02:43 104.192.6.44 GET /api/getEdades token=2AQIAGDEVDG 8001 - 40.77.189.17 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 219
+2024-01-08 05:02:43 104.192.6.44 GET /api/getPage token=2AQIAGDEVDG 8001 - 40.77.189.17 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 220
+2024-01-08 05:02:43 104.192.6.44 GET /api/getPlaza token=2AQIAGDEVDG 8001 - 40.77.189.17 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 282
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 05:40:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 05:40:57 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 315
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 08:06:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 08:06:01 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 319
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 11:30:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 11:30:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 298
+2024-01-08 11:30:21 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 111
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 14:08:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 14:08:51 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 304
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 15:59:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 15:59:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 307
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 16:16:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 16:16:08 104.192.6.44 GET /api/getPlaza token=1CGRW83FYQK 8001 - 40.77.188.195 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 196
+2024-01-08 16:16:08 104.192.6.44 GET /api/getPage token=1CGRW83FYQK 8001 - 40.77.188.3 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 200
+2024-01-08 16:16:08 104.192.6.44 GET /api/getEdades token=1CGRW83FYQK 8001 - 40.77.188.153 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 184
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-08 20:38:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-08 20:38:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 3306

@@ -1,0 +1,77 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 00:00:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 00:00:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.51.11 - - 200 0 0 161
+2024-08-24 00:00:16 104.192.6.44 GET /api/getPlaza token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 243
+2024-08-24 00:00:16 104.192.6.44 GET /api/getPage token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 250
+2024-08-24 00:00:16 104.192.6.44 GET /api/getEdades token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 261
+2024-08-24 00:00:16 104.192.6.44 GET /api/getGrupoCarros id=JA&token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 192
+2024-08-24 00:00:16 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-24&token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 207
+2024-08-24 00:00:16 104.192.6.44 GET /api/getEdades token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 201
+2024-08-24 00:00:16 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 206
+2024-08-24 00:00:16 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=09ENSCOS9QG 8001 - 189.135.51.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/128.0.0.0+Safari/537.36 http://localhost/ 201 0 0 227
+2024-08-24 00:15:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 173
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 00:53:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 00:53:38 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.15.69 - - 200 0 0 353
+2024-08-24 00:53:41 104.192.6.44 GET /api/getPage token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 163
+2024-08-24 00:53:41 104.192.6.44 GET /api/getPlaza token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 231
+2024-08-24 00:53:41 104.192.6.44 GET /api/getEdades token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 237
+2024-08-24 00:53:41 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-24&token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 176
+2024-08-24 00:53:41 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 176
+2024-08-24 00:53:41 104.192.6.44 GET /api/getState token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-08-24 00:53:41 104.192.6.44 GET /api/getEdades token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 237
+2024-08-24 00:53:41 104.192.6.44 GET /api/getGrupoCarros id=JA&token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 243
+2024-08-24 00:53:41 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=KD0LFTIK6FC 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 http://localhost/ 201 0 0 201
+2024-08-24 00:53:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 108
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 01:16:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 01:16:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 304
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 01:32:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 01:32:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 177
+2024-08-24 01:32:44 104.192.6.44 GET /api/getPage token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 188
+2024-08-24 01:32:44 104.192.6.44 GET /api/getPlaza token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 231
+2024-08-24 01:32:44 104.192.6.44 GET /api/getEdades token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 231
+2024-08-24 01:32:44 104.192.6.44 GET /api/getState token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 189
+2024-08-24 01:32:44 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 188
+2024-08-24 01:32:44 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-24&token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 200
+2024-08-24 01:32:44 104.192.6.44 GET /api/getEdades token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 249
+2024-08-24 01:32:44 104.192.6.44 GET /api/getGrupoCarros id=JA&token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 249
+2024-08-24 01:32:44 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-25&token=5ICZRLGT3OO 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 183
+2024-08-24 01:33:06 104.192.6.44 GET /api/validarUsuario token=5ICZRLGT3OO&usuario=vnc&password=12345 8001 - 189.135.15.69 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/127.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 200 0 0 158
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 07:52:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 07:52:58 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 312
+2024-08-24 07:59:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 138
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 20:18:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 20:18:27 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 309
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 21:12:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 21:12:11 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 311
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 21:52:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 21:52:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 310
+2024-08-24 21:52:08 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 112
+2024-08-24 21:52:13 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 99
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-08-24 23:28:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-08-24 23:28:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 303

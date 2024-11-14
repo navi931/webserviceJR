@@ -1,0 +1,124 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 00:04:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 00:04:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2547
+2024-02-27 00:04:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 119
+2024-02-27 00:04:08 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 97
+2024-02-27 00:04:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 102
+2024-02-27 00:04:17 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 93
+2024-02-27 00:04:17 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 95
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 02:09:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 02:09:59 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 306
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 02:27:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 02:27:14 104.192.6.44 GET /api/getPage token=1XJ7785IVNW 8001 - 40.77.188.209 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 231
+2024-02-27 02:27:14 104.192.6.44 GET /api/getPlaza token=1XJ7785IVNW 8001 - 40.77.189.40 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 222
+2024-02-27 02:27:14 104.192.6.44 GET /api/getEdades token=1XJ7785IVNW 8001 - 40.77.190.110 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 199
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 03:15:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 03:15:20 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 318
+2024-02-27 03:15:29 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 152
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 05:45:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 05:45:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 305
+2024-02-27 05:48:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 141
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 12:18:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 12:18:05 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 328
+2024-02-27 12:18:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 111
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 12:36:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 12:36:40 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 184
+2024-02-27 12:36:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 112
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 13:20:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 13:20:39 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 327
+2024-02-27 13:20:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 118
+2024-02-27 13:34:23 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 176
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 15:35:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 15:35:00 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 16:10:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 16:10:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 306
+2024-02-27 16:22:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 168
+2024-02-27 16:22:17 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 114
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 18:19:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 18:19:34 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 318
+2024-02-27 18:19:37 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 112
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 19:02:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 19:02:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2584
+2024-02-27 19:02:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 124
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 19:21:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 19:21:42 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 170
+2024-02-27 19:21:44 104.192.6.44 GET /api/getPage token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 223
+2024-02-27 19:21:44 104.192.6.44 GET /api/getEdades token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 276
+2024-02-27 19:21:44 104.192.6.44 GET /api/getPlaza token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 211
+2024-02-27 19:21:44 104.192.6.44 GET /api/getEdades token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 166
+2024-02-27 19:21:46 104.192.6.44 GET /api/getHorario id=CB&date=2024-02-27&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 185
+2024-02-27 19:21:46 104.192.6.44 GET /api/getState token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 186
+2024-02-27 19:21:46 104.192.6.44 GET /api/getHorario id=CB&date=2024-02-28&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 263
+2024-02-27 19:21:46 104.192.6.44 GET /api/getGrupoCarros id=CB&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 261
+2024-02-27 19:21:46 104.192.6.44 GET /api/getHorario id=CB&date=2024-02-28&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 199
+2024-02-27 19:21:51 104.192.6.44 GET /api/getHorario id=CB&date=2024-03-24&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 163
+2024-02-27 19:21:51 104.192.6.44 GET /api/getHorario id=CB&date=2024-03-23&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 168
+2024-02-27 19:21:51 104.192.6.44 GET /api/getHorario id=CB&date=2024-03-24&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 197
+2024-02-27 19:21:58 104.192.6.44 GET /api/getHorario id=CB&date=2024-03-30&token=BHR0VIXTYHS 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 187
+2024-02-27 19:22:06 104.192.6.44 GET /api/setState token=BHR0VIXTYHS&IDReservacion=PR-455W8ZCS&IDOficinaReservacion=CB&FechaReservacion=2024-03-23%2010:00&Edad=21&IDOficinaRetorno=CB&FechaRetorno=2024-03-30%2014:00&IDCteLeal=&WebStatus=1&IDSippCodeSolicitado=0&IDCodDescuento= 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 163
+2024-02-27 19:22:06 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 100
+2024-02-27 19:22:06 104.192.6.44 GET /api/setState IDReservacion=PR-455W8ZCS&token=8M7BZZUHFEK 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 172
+2024-02-27 19:22:07 104.192.6.44 GET /api/getPrecios token=8M7BZZUHFEK&id=CB&fecha_inicial=2024-03-23%2010:00:00.000&fecha_final=2024-03-30%2014:00:00.000&Edad=21&id_cliente=&SIPPCode=0&id_retorno=CB&id_promocion= 8001 - 187.218.217.151 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/122.0.0.0+Safari/537.36+Edg/122.0.0.0 https://www.pricelesscarrental.mx/ 201 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 19:52:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 19:52:22 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 305
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 21:36:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 21:36:03 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 22:00:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 22:00:59 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 304
+2024-02-27 22:16:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 172
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-27 23:25:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-27 23:25:32 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2481
+2024-02-27 23:25:32 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 115
+2024-02-27 23:25:33 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 96
+2024-02-27 23:25:33 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 98
+2024-02-27 23:25:38 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 94

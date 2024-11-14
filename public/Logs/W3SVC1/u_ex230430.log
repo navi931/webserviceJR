@@ -1,0 +1,49 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 12:13:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 12:13:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2259
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 15:25:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 15:25:04 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 311
+2023-04-30 15:25:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 118
+2023-04-30 15:25:46 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 112
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 18:18:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 18:18:10 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 357
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 18:34:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 18:34:29 104.192.6.44 GET /robots.txt - 8001 - 40.77.167.184 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/103.0.5060.134+Safari/537.36 - 200 0 0 33
+2023-04-30 18:34:29 104.192.6.44 GET /api/getPlaza token=3AJCSFLSI28J 8001 - 40.77.202.28 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 240
+2023-04-30 18:34:29 104.192.6.44 GET /api/getEdades token=3AJCSFLSI28J 8001 - 40.77.202.57 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 160
+2023-04-30 18:34:29 104.192.6.44 GET /api/getPage token=3AJCSFLSI28J 8001 - 40.77.202.89 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 153
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 19:20:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 19:20:05 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 306
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 21:49:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 21:49:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 4820
+2023-04-30 21:49:47 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 108
+2023-04-30 21:49:47 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 137
+2023-04-30 21:49:54 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 96
+2023-04-30 21:49:54 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 91
+2023-04-30 21:49:54 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 92
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-04-30 23:25:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-04-30 23:25:10 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 300
+2023-04-30 23:25:14 104.192.6.44 GET /api/getEdades token=3WIJNOVCGEAB 8001 - 200.68.183.168 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_3_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+280.0.0.13.116+(iPhone15,3;+iOS+16_3_1;+es_MX;+es-MX;+scale=3.00;+1290x2796;+467822527) https://pricelesscarrental.mx/ 201 0 0 189
+2023-04-30 23:25:14 104.192.6.44 GET /api/getPlaza token=3WIJNOVCGEAB 8001 - 200.68.183.168 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_3_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+280.0.0.13.116+(iPhone15,3;+iOS+16_3_1;+es_MX;+es-MX;+scale=3.00;+1290x2796;+467822527) https://pricelesscarrental.mx/ 201 0 0 219
+2023-04-30 23:25:14 104.192.6.44 GET /api/getPage token=3WIJNOVCGEAB 8001 - 200.68.183.168 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_3_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+280.0.0.13.116+(iPhone15,3;+iOS+16_3_1;+es_MX;+es-MX;+scale=3.00;+1290x2796;+467822527) https://pricelesscarrental.mx/ 201 0 0 237
+2023-04-30 23:25:14 104.192.6.44 GET /api/getEdades token=3WIJNOVCGEAB 8001 - 200.68.183.168 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_3_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15E148+Instagram+280.0.0.13.116+(iPhone15,3;+iOS+16_3_1;+es_MX;+es-MX;+scale=3.00;+1290x2796;+467822527) https://pricelesscarrental.mx/ 201 0 0 144

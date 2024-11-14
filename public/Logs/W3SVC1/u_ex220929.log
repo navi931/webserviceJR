@@ -1,0 +1,30 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-29 13:09:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-29 13:09:15 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 1890
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-29 16:44:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-29 16:44:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 311
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-29 17:36:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-29 17:36:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 292
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-29 21:53:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-29 21:53:47 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 291
+2022-09-29 21:53:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 111
+2022-09-29 21:53:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 93
+2022-09-29 21:53:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 134
+2022-09-29 21:53:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 97
+2022-09-29 21:53:55 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 133
+2022-09-29 21:54:38 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 130
+2022-09-29 21:54:45 104.192.6.44 GET /api/getPlaza token=1ICCPRNY9W46 8001 - 66.249.90.243 Mozilla/5.0+AppleWebKit/537.36+Chrome/105.0.5195.125+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 207
+2022-09-29 21:54:45 104.192.6.44 GET /api/getEdades token=1ICCPRNY9W46 8001 - 66.249.90.243 Mozilla/5.0+AppleWebKit/537.36+Chrome/105.0.5195.125+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 163
+2022-09-29 21:54:46 104.192.6.44 GET /api/getPage token=1ICCPRNY9W46 8001 - 66.249.90.241 Mozilla/5.0+AppleWebKit/537.36+Chrome/105.0.5195.125+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 122
+2022-09-29 21:54:46 104.192.6.44 GET /api/getEdades token=1ICCPRNY9W46 8001 - 66.249.90.241 Mozilla/5.0+AppleWebKit/537.36+Chrome/105.0.5195.125+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 119

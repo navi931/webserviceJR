@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 06:53:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 06:53:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2348
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 07:19:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 07:19:06 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 298
+2022-10-24 07:19:23 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 147
+2022-10-24 07:30:20 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 207
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 12:12:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 12:12:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 292
+2022-10-24 12:12:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+2022-10-24 12:13:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 140
+2022-10-24 12:13:25 104.192.6.44 GET /api/getPage token=JMXS6IAU4RA 8001 - 34.171.149.192 Mozilla/4.0+(PDA;+PalmOS/sony/model+prmr/Revision:1.1.54+(en))+NetFront/3.0 https://pricelesscarrental.mx/ 201 0 0 149
+2022-10-24 12:13:25 104.192.6.44 GET /api/getPlaza token=JMXS6IAU4RA 8001 - 34.171.149.192 Mozilla/4.0+(PDA;+PalmOS/sony/model+prmr/Revision:1.1.54+(en))+NetFront/3.0 https://pricelesscarrental.mx/ 201 0 0 196
+2022-10-24 12:13:25 104.192.6.44 GET /api/getEdades token=JMXS6IAU4RA 8001 - 34.171.149.192 Mozilla/4.0+(PDA;+PalmOS/sony/model+prmr/Revision:1.1.54+(en))+NetFront/3.0 https://pricelesscarrental.mx/ 201 0 0 202
+2022-10-24 12:13:25 104.192.6.44 GET /api/getEdades token=JMXS6IAU4RA 8001 - 34.171.149.192 Mozilla/4.0+(PDA;+PalmOS/sony/model+prmr/Revision:1.1.54+(en))+NetFront/3.0 https://pricelesscarrental.mx/ 201 0 0 156
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 19:43:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 19:43:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 292
+2022-10-24 19:43:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 119
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 21:41:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 21:41:22 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 1899
+2022-10-24 21:52:15 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 173
+2022-10-24 21:52:17 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 113
+2022-10-24 21:52:19 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 130
+2022-10-24 21:52:24 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 95
+2022-10-24 21:52:32 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 92
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-10-24 22:46:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-10-24 22:46:37 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 335

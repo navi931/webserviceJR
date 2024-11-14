@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 02:23:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 02:23:03 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 291
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 04:56:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 04:56:25 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 290
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 11:53:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 11:53:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 298
+2022-07-21 11:53:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 332
+2022-07-21 11:53:29 104.192.6.44 GET /api/getGrupoCarros &token=3P3JORL6MWKA 8001 - 190.102.57.196 Mozilla/5.0+(Linux;+Android+8.1.0;+SM-J260M+Build/M1AJB;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+SamsungBrowser/7.2+Chrome/102.0.5005.125+Mobile+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 210
+2022-07-21 11:53:29 104.192.6.44 GET /api/getPlaza token=3P3JORL6MWKA 8001 - 190.102.57.196 Mozilla/5.0+(Linux;+Android+8.1.0;+SM-J260M+Build/M1AJB;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+SamsungBrowser/7.2+Chrome/102.0.5005.125+Mobile+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 216
+2022-07-21 11:53:34 104.192.6.44 GET /api/getPage token=3P3JORL6MWKA 8001 - 190.102.57.196 Mozilla/5.0+(Linux;+Android+8.1.0;+SM-J260M+Build/M1AJB;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+SamsungBrowser/7.2+Chrome/102.0.5005.125+Mobile+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 219
+2022-07-21 11:53:47 104.192.6.44 GET /api/getPlaza token=17MTN3K5110A 8001 - 179.49.26.5 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 196
+2022-07-21 11:53:47 104.192.6.44 GET /api/getGrupoCarros &token=17MTN3K5110A 8001 - 179.49.26.5 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 194
+2022-07-21 11:53:48 104.192.6.44 GET /api/getPage token=17MTN3K5110A 8001 - 179.49.26.5 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/102.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 228
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 14:25:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 14:25:40 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 333
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 15:40:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 15:40:57 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 291
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 17:09:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 17:09:05 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 296
+2022-07-21 17:09:08 104.192.6.44 GET /api/getEdades token=1LRUQKWES5ZY 8001 - 66.249.91.24 Mozilla/5.0+AppleWebKit/537.36+Chrome/103.0.5060.114+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 149
+2022-07-21 17:09:09 104.192.6.44 GET /api/getPlaza token=1LRUQKWES5ZY 8001 - 66.249.91.28 Mozilla/5.0+AppleWebKit/537.36+Chrome/103.0.5060.114+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 207
+2022-07-21 17:09:09 104.192.6.44 GET /api/getPage token=1LRUQKWES5ZY 8001 - 66.249.91.28 Mozilla/5.0+AppleWebKit/537.36+Chrome/103.0.5060.114+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 174
+2022-07-21 17:09:09 104.192.6.44 GET /api/getEdades token=1LRUQKWES5ZY 8001 - 66.249.91.28 Mozilla/5.0+AppleWebKit/537.36+Chrome/103.0.5060.114+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 150
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-21 21:49:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-21 21:49:39 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2976
+2022-07-21 21:49:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 107
+2022-07-21 21:49:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 100
+2022-07-21 21:49:42 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 93
+2022-07-21 21:49:42 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+2022-07-21 21:49:42 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 91
+2022-07-21 21:49:50 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 104

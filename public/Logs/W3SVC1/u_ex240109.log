@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 09:05:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 09:05:06 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2850
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 12:12:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 12:12:33 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 308
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 14:18:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 14:18:56 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 301
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 16:32:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 16:32:39 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.67+Safari/537.36 - 404 0 0 731
+2024-01-09 16:32:40 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/35.0.2117.157+Safari/537.36 - 404 0 0 689
+2024-01-09 16:32:42 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.93+Safari/537.36 - 404 0 0 763
+2024-01-09 16:32:43 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 - 404 0 0 340
+2024-01-09 16:32:45 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.77+Safari/537.36 - 404 0 0 350
+2024-01-09 16:32:46 104.192.6.44 POST /_ignition/execute-solution - 8001 - 103.30.195.30 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2224.3+Safari/537.36 - 404 0 0 359
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 17:13:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 17:13:05 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 307
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 20:03:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 20:03:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2956
+2024-01-09 20:03:47 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 115
+2024-01-09 20:03:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 97
+2024-01-09 20:03:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 98
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-09 20:34:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-09 20:34:16 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 308

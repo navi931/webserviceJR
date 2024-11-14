@@ -1,0 +1,80 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 01:08:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 01:08:18 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 3514
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 03:10:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 03:10:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 312
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 04:11:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 04:11:55 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 343
+2024-10-27 04:11:57 104.192.6.44 GET /api/getPlaza token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 204
+2024-10-27 04:11:57 104.192.6.44 GET /api/getEdades token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 243
+2024-10-27 04:11:57 104.192.6.44 GET /api/getPage token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 275
+2024-10-27 04:11:57 104.192.6.44 GET /api/getHorario id=JA&date=2024-10-28&token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 183
+2024-10-27 04:11:57 104.192.6.44 GET /api/getHorario id=JA&date=2024-10-27&token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 183
+2024-10-27 04:11:57 104.192.6.44 GET /api/getState token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 183
+2024-10-27 04:11:57 104.192.6.44 GET /api/getGrupoCarros id=JA&token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 231
+2024-10-27 04:11:57 104.192.6.44 GET /api/getEdades token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 424
+2024-10-27 04:11:57 104.192.6.44 GET /api/getHorario id=JA&date=2024-10-28&token=1LCQL2YJX9OS 8001 - 189.128.202.207 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/130.0.0.0+Mobile+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 335
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 04:55:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 04:55:25 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 323
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 05:26:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 05:26:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 314
+2024-10-27 05:33:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 138
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 06:59:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 06:59:08 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 320
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 15:03:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 15:03:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 316
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 15:27:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 15:27:40 104.192.6.44 GET /api/getPlaza token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 380
+2024-10-27 15:27:40 104.192.6.44 GET /api/getEdades token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 380
+2024-10-27 15:27:40 104.192.6.44 GET /api/getPage token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 395
+2024-10-27 15:27:40 104.192.6.44 GET /robots.txt - 8001 - 52.167.144.55 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 37
+2024-10-27 15:27:40 104.192.6.44 GET /robots.txt - 8001 - 52.167.144.55 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 36
+2024-10-27 15:27:40 104.192.6.44 GET /robots.txt - 8001 - 52.167.144.55 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 39
+2024-10-27 15:27:40 104.192.6.44 GET /robots.txt - 8001 - 52.167.144.55 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 35
+2024-10-27 15:27:41 104.192.6.44 GET /api/getGrupoCarros id=JA&token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 130
+2024-10-27 15:27:41 104.192.6.44 GET /api/getHorario id=JA&date=2024-10-28&token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 143
+2024-10-27 15:27:41 104.192.6.44 GET /api/getState token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 121
+2024-10-27 15:27:41 104.192.6.44 GET /api/getHorario id=JA&date=2024-10-29&token=1WIDJR2JFPT4 8001 - 40.77.188.88 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/112.0.0.0+Safari/537.36 https://pricelesscarrental.mx/ 201 0 0 230
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 18:34:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 18:34:38 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 321
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 21:51:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 21:51:21 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 315
+2024-10-27 21:51:21 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 116
+2024-10-27 21:51:22 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 97
+2024-10-27 21:51:24 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 101
+2024-10-27 21:51:24 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 113
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-10-27 22:45:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-10-27 22:45:46 104.192.6.44 GET /.env - 8001 - 13.212.214.112 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - 404 0 0 907
+2024-10-27 22:45:48 104.192.6.44 POST / - 8001 - 13.212.214.112 Mozlila/5.0+(Linux;+Android+7.0;+SM-G892A+Bulid/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/60.0.3112.107+Moblie+Safari/537.36 - 405 0 0 2550

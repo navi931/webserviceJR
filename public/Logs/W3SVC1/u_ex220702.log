@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-02 00:50:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-02 00:50:20 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 299
+2022-07-02 00:50:34 104.192.6.44 GET /robots.txt - 8001 - 66.249.64.153 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 42
+2022-07-02 00:50:34 104.192.6.44 GET /api/getPlaza token=9328ZJ18KHA 8001 - 66.249.89.84 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 201 0 0 194
+2022-07-02 00:50:35 104.192.6.44 GET /api/getPage token=9328ZJ18KHA 8001 - 66.249.89.84 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 201 0 0 181
+2022-07-02 00:50:35 104.192.6.44 GET /api/getEdades token=9328ZJ18KHA 8001 - 66.249.89.78 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 201 0 0 145
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-02 02:52:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-02 02:52:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 293
+2022-07-02 02:53:12 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 121
+2022-07-02 02:55:56 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 126
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-07-02 11:16:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-07-02 11:16:52 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 301

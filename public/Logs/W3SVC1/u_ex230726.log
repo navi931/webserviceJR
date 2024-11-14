@@ -1,0 +1,44 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 01:08:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 01:08:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 324
+2023-07-26 01:08:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 125
+2023-07-26 01:08:44 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 108
+2023-07-26 01:08:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 107
+2023-07-26 01:08:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+2023-07-26 01:16:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 186
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 03:54:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 03:54:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 320
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 06:29:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 06:29:44 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 327
+2023-07-26 06:29:46 104.192.6.44 GET /api/getPage token=4VIIS0VYIVSB 8001 - 187.190.90.248 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_5_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/20F75+Instagram+292.1.0.22.73+(iPhone11,8;+iOS+16_5_1;+es_MX;+es;+scale=2.00;+828x1792;+496486330) https://pricelesscarrental.mx/ 201 0 0 223
+2023-07-26 06:29:46 104.192.6.44 GET /api/getEdades token=4VIIS0VYIVSB 8001 - 187.190.90.248 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_5_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/20F75+Instagram+292.1.0.22.73+(iPhone11,8;+iOS+16_5_1;+es_MX;+es;+scale=2.00;+828x1792;+496486330) https://pricelesscarrental.mx/ 201 0 0 245
+2023-07-26 06:29:46 104.192.6.44 GET /api/getPlaza token=4VIIS0VYIVSB 8001 - 187.190.90.248 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_5_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/20F75+Instagram+292.1.0.22.73+(iPhone11,8;+iOS+16_5_1;+es_MX;+es;+scale=2.00;+828x1792;+496486330) https://pricelesscarrental.mx/ 201 0 0 255
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 14:03:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 14:03:46 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 332
+2023-07-26 14:03:46 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 124
+2023-07-26 14:04:15 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 134
+2023-07-26 14:04:27 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 121
+2023-07-26 14:17:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 200
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 21:20:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 21:20:01 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2495
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-07-26 21:36:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-07-26 21:36:14 104.192.6.44 GET /api/getEdades token=36OMLLCTG8CZ 8001 - 40.77.188.90 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 228
+2023-07-26 21:36:14 104.192.6.44 GET /api/getPage token=36OMLLCTG8CZ 8001 - 40.77.188.216 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 208
+2023-07-26 21:36:14 104.192.6.44 GET /api/getPlaza token=36OMLLCTG8CZ 8001 - 40.77.188.45 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/100.0.4896.127+Safari/537.36 - 201 0 0 212

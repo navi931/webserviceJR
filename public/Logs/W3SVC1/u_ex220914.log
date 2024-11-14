@@ -1,0 +1,51 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 00:07:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 00:07:01 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 295
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 02:08:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 02:08:13 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 293
+2022-09-14 02:08:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 02:24:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 02:24:44 104.192.6.44 GET /api/getPlaza token=N8QF4WK76OM 8001 - 40.77.188.59 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 201 0 0 213
+2022-09-14 02:24:44 104.192.6.44 GET /api/getPage token=N8QF4WK76OM 8001 - 40.77.189.101 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 201 0 0 218
+2022-09-14 02:24:44 104.192.6.44 GET /api/getEdades token=N8QF4WK76OM 8001 - 40.77.188.203 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 201 0 0 190
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 05:41:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 05:41:10 104.192.6.44 GET /api/getPlaza token=3VPSIOEMOGSU 8001 - 187.172.170.68 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/15.6.1+Safari/605.1.15 https://pricelesscarrental.mx/ 400 0 0 514
+2022-09-14 05:41:10 104.192.6.44 GET /api/getPage token=3VPSIOEMOGSU 8001 - 187.172.170.68 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/15.6.1+Safari/605.1.15 https://pricelesscarrental.mx/ 400 0 0 514
+2022-09-14 05:41:10 104.192.6.44 GET /api/getEdades token=3VPSIOEMOGSU 8001 - 187.172.170.68 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/15.6.1+Safari/605.1.15 https://pricelesscarrental.mx/ 400 0 0 514
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 13:12:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 13:12:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 1917
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 16:33:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 16:33:20 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 353
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 17:51:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 17:51:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 299
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 20:49:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 20:49:03 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2300
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-09-14 21:49:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-09-14 21:49:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 289
+2022-09-14 21:49:51 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 109

@@ -1,0 +1,49 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 04:18:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 04:18:55 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 328
+2022-06-30 04:18:56 104.192.6.44 GET /api/getEdades token=33RQWR9SRLKA 8001 - 34.221.104.183 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 183
+2022-06-30 04:18:56 104.192.6.44 GET /api/getPlaza token=33RQWR9SRLKA 8001 - 34.221.104.183 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 226
+2022-06-30 04:18:56 104.192.6.44 GET /api/getPage token=33RQWR9SRLKA 8001 - 34.221.104.183 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 226
+2022-06-30 04:18:56 104.192.6.44 GET /api/getEdades token=33RQWR9SRLKA 8001 - 34.221.104.183 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 212
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 05:08:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 05:08:13 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 292
+2022-06-30 05:08:15 104.192.6.44 GET /api/getPlaza token=2JJAXH8CQ006 8001 - 52.34.81.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 192
+2022-06-30 05:08:15 104.192.6.44 GET /api/getEdades token=2JJAXH8CQ006 8001 - 52.34.81.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 224
+2022-06-30 05:08:15 104.192.6.44 GET /api/getPage token=2JJAXH8CQ006 8001 - 52.34.81.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 238
+2022-06-30 05:08:15 104.192.6.44 GET /api/getEdades token=2JJAXH8CQ006 8001 - 52.34.81.150 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 https://pricelesscarrental.mx/ 201 0 0 195
+2022-06-30 05:08:25 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 93
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 12:58:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 12:58:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 308
+2022-06-30 12:58:54 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 113
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 13:31:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 13:31:01 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 295
+2022-06-30 13:31:28 104.192.6.44 GET /robots.txt - 8001 - 66.249.64.153 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 45
+2022-06-30 13:31:28 104.192.6.44 GET /api/getEdades token=24VH5QGBVWDE 8001 - 66.249.89.77 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 400 0 0 203
+2022-06-30 13:31:29 104.192.6.44 GET /api/getPage token=24VH5QGBVWDE 8001 - 66.249.89.78 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 400 0 0 138
+2022-06-30 13:31:29 104.192.6.44 GET /api/getPlaza token=24VH5QGBVWDE 8001 - 66.249.89.77 AdsBot-Google+(+http://www.google.com/adsbot.html) https://pricelesscarrental.mx/ 400 0 0 175
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 16:23:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 16:23:58 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 296
+2022-06-30 16:25:44 104.192.6.44 GET /api/getPage token=3WDVM2YHYCMM 8001 - 66.249.89.84 Mozilla/5.0+AppleWebKit/537.36+Chrome/102.0.5005.115+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 157
+2022-06-30 16:25:44 104.192.6.44 GET /api/getPlaza token=3WDVM2YHYCMM 8001 - 66.249.89.84 Mozilla/5.0+AppleWebKit/537.36+Chrome/102.0.5005.115+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 180
+2022-06-30 16:25:46 104.192.6.44 GET /api/getEdades token=3WDVM2YHYCMM 8001 - 66.249.89.84 Mozilla/5.0+AppleWebKit/537.36+Chrome/102.0.5005.115+Safari/537.36+Google-Ads-Conversions https://www.pricelesscarrental.mx/ 201 0 0 160
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2022-06-30 21:37:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2022-06-30 21:37:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 1944
+2022-06-30 21:37:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 109
+2022-06-30 21:38:24 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 103

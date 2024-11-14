@@ -1,0 +1,183 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 01:16:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 01:16:30 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 3046
+2024-07-23 01:16:39 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 199
+2024-07-23 01:17:17 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 152
+2024-07-23 01:17:22 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 188
+2024-07-23 01:17:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 139
+2024-07-23 01:17:44 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 183
+2024-07-23 01:17:44 104.192.6.44 GET /api/getPage token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 220
+2024-07-23 01:17:44 104.192.6.44 GET /api/getEdades token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 275
+2024-07-23 01:17:44 104.192.6.44 GET /api/getPlaza token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 275
+2024-07-23 01:17:44 104.192.6.44 GET /api/getEdades token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 187
+2024-07-23 01:17:44 104.192.6.44 GET /api/getGrupoCarros id=JA&token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 175
+2024-07-23 01:17:44 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-23&token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 181
+2024-07-23 01:17:45 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 243
+2024-07-23 01:17:45 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=0WA84IQV5C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 207
+2024-07-23 01:17:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 146
+2024-07-23 01:18:00 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 205
+2024-07-23 01:18:03 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 214
+2024-07-23 01:18:04 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 164
+2024-07-23 01:18:06 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 193
+2024-07-23 01:18:19 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 188
+2024-07-23 01:18:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 146
+2024-07-23 01:18:26 104.192.6.44 GET /api/getPlaza token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 164
+2024-07-23 01:18:26 104.192.6.44 GET /api/getEdades token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 01:18:26 104.192.6.44 GET /api/getPage token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 01:18:26 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-23&token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 186
+2024-07-23 01:18:26 104.192.6.44 GET /api/getGrupoCarros id=JA&token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 180
+2024-07-23 01:18:26 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 180
+2024-07-23 01:18:26 104.192.6.44 GET /api/getEdades token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 181
+2024-07-23 01:18:26 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=KQ8PGG9WQH4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 201
+2024-07-23 01:18:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 182
+2024-07-23 01:18:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 188
+2024-07-23 01:19:10 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 157
+2024-07-23 01:19:23 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 194
+2024-07-23 01:19:27 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 168
+2024-07-23 01:19:27 104.192.6.44 GET /api/getPage token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 194
+2024-07-23 01:19:27 104.192.6.44 GET /api/getEdades token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 195
+2024-07-23 01:19:27 104.192.6.44 GET /api/getPlaza token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 212
+2024-07-23 01:19:27 104.192.6.44 GET /api/getEdades token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 183
+2024-07-23 01:19:27 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-23&token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 164
+2024-07-23 01:19:27 104.192.6.44 GET /api/getGrupoCarros id=JA&token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 01:19:27 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-07-23 01:19:27 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=R0XWOHQ9OO8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 195
+2024-07-23 01:19:31 104.192.6.44 GET /api/setState token=R0XWOHQ9OO8&IDReservacion=PR-WR6E50XW&IDOficinaReservacion=JA&FechaReservacion=2024-07-23%2008:00&Edad=25&IDOficinaRetorno=JA&FechaRetorno=2024-07-24%2008:00&IDCteLeal=&WebStatus=1&IDSippCodeSolicitado=0&IDCodDescuento= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 205
+2024-07-23 01:19:31 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 145
+2024-07-23 01:19:31 104.192.6.44 GET /api/setState IDReservacion=PR-WR6E50XW&token=45IZI0GCPJC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 158
+2024-07-23 01:19:33 104.192.6.44 GET /api/getPrecios token=45IZI0GCPJC&id=JA&fecha_inicial=2024-07-23%2008:00:00.000&fecha_final=2024-07-24%2008:00:00.000&Edad=25&id_cliente=&SIPPCode=0&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 439
+2024-07-23 01:19:34 104.192.6.44 GET /api/setState token=45IZI0GCPJC&IDReservacion=PR-WR6E50XW&BanderaPrepago=1&WebStatus=2&IDSippCodeSeleccionado=MCAR&id_cliente=&DP=0&CDW=0&PAI=0&PLI=0&PLIA=0&ERA=0&CA=0&BS1=0&CM=0&GPS=0&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 209
+2024-07-23 01:19:34 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 195
+2024-07-23 01:19:34 104.192.6.44 GET /api/setState token=8C7H15MERNS&IDReservacion=PR-WR6E50XW&DP=0&CDW=0&PAI=0&PLI=0&PLIA=0&ERA=0&CA=0&BS1=0&CM=0&GPS=0 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 158
+2024-07-23 01:19:34 104.192.6.44 GET /api/getSoloSeguros token=8C7H15MERNS&id=JA&fecha_inicial=2024-07-23%2008:00:00.000&fecha_final=2024-07-24%2008:00:00.000&Edad=25&SIPPCode=MCAR&id_cliente=&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 193
+2024-07-23 01:19:34 104.192.6.44 GET /api/guardarCotizacion token=8C7H15MERNS&codigo=PR-WR6E50XW&id=JA&fecha_inicial=2024-07-23%2008:00:00.000&fecha_final=2024-07-24%2008:00:00.000&id_retorno=JA&id_promocion=&SIPPCode=MCAR&Edad=25&Prepago=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 193
+2024-07-23 01:19:35 104.192.6.44 GET /api/modificarCotizacion token=8C7H15MERNS&codigo=PR-WR6E50XW&id=JA&id_promocion=&PLI=1&CDW=0&DP=0&PAI=0&CA=0&BS1=0&CM=0& 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 209
+2024-07-23 01:19:35 104.192.6.44 GET /api/setState token=8C7H15MERNS&IDReservacion=PR-WR6E50XW&PLI=1&CDW=0&DP=0&PAI=0&CA=0&BS1=0&CM=0& 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 224
+2024-07-23 01:19:36 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 171
+2024-07-23 01:19:36 104.192.6.44 GET /api/setState token=6FZZAIMX4UG&IDReservacion=PR-WR6E50XW&id_promo=undefined 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 159
+2024-07-23 01:19:36 104.192.6.44 GET /api/getSoloSeguros token=6FZZAIMX4UG&id=JA&fecha_inicial=2024-07-23%2008:00:00.000&fecha_final=2024-07-24%2008:00:00.000&Edad=25&SIPPCode=MCAR&id_cliente=&id_agencia=undefined&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 230
+2024-07-23 01:19:36 104.192.6.44 GET /api/modificarCotizacion token=6FZZAIMX4UG&codigo=PR-WR6E50XW&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 230
+2024-07-23 01:19:45 104.192.6.44 GET /api/modificarCotizacion token=6FZZAIMX4UG&id=JA&nombre=test&paterno=test&materno=test&email=navi.ga931@gmail.com&telefono=+523531241128&licencia=&licencia_expira=&licencia_estado=&vuelo=&aerolinea=&codigo=PR-WR6E50XW 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 164
+2024-07-23 01:19:45 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 144
+2024-07-23 01:19:45 104.192.6.44 GET /api/getReserva token=OEFLF9IWS94&codigo=PR-WR6E50XW&apellido=test&temporal=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 01:19:45 104.192.6.44 GET /api/getDomicilioOficina token=OEFLF9IWS94&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 194
+2024-07-23 01:19:46 104.192.6.44 GET /api/getDomicilioOficina token=OEFLF9IWS94&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 232
+2024-07-23 01:21:36 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 176
+2024-07-23 01:21:36 104.192.6.44 GET /api/getReserva token=88TV8NKGZWO&codigo=PR-WR6E50XW&apellido=test&temporal=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 167
+2024-07-23 01:21:36 104.192.6.44 GET /api/getDomicilioOficina token=88TV8NKGZWO&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 152
+2024-07-23 01:21:36 104.192.6.44 GET /api/getDomicilioOficina token=88TV8NKGZWO&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 194
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 05:39:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 05:39:51 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 310
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 06:16:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 06:16:36 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 301
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 13:08:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 13:08:59 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 306
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 16:01:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 16:01:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 3431
+2024-07-23 16:02:05 104.192.6.44 GET /api/getEdades token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 217
+2024-07-23 16:02:05 104.192.6.44 GET /api/getPlaza token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 249
+2024-07-23 16:02:05 104.192.6.44 GET /api/getPage token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 249
+2024-07-23 16:02:05 104.192.6.44 GET /api/getEdades token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 250
+2024-07-23 16:02:05 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 244
+2024-07-23 16:02:05 104.192.6.44 GET /api/getState token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 250
+2024-07-23 16:02:05 104.192.6.44 GET /api/getGrupoCarros id=JA&token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 292
+2024-07-23 16:02:05 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 299
+2024-07-23 16:02:05 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=4HQL9RBEASGC 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 298
+2024-07-23 16:02:12 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 207
+2024-07-23 16:02:12 104.192.6.44 GET /api/getPage token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-07-23 16:02:12 104.192.6.44 GET /api/getEdades token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 176
+2024-07-23 16:02:12 104.192.6.44 GET /api/getPlaza token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 16:02:13 104.192.6.44 GET /api/getEdades token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 188
+2024-07-23 16:02:13 104.192.6.44 GET /api/getGrupoCarros id=JA&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-07-23 16:02:13 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 195
+2024-07-23 16:02:13 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 207
+2024-07-23 16:02:13 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 268
+2024-07-23 16:02:17 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 176
+2024-07-23 16:02:17 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 176
+2024-07-23 16:02:17 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 255
+2024-07-23 16:02:18 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-01&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 212
+2024-07-23 16:02:18 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 224
+2024-07-23 16:02:18 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-01&token=7FG7SIU4KZ4O 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 219
+2024-07-23 16:04:48 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 170
+2024-07-23 16:04:48 104.192.6.44 GET /api/getPage token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 188
+2024-07-23 16:04:48 104.192.6.44 GET /api/getPlaza token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 206
+2024-07-23 16:04:48 104.192.6.44 GET /api/getEdades token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 206
+2024-07-23 16:04:48 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 188
+2024-07-23 16:04:48 104.192.6.44 GET /api/getEdades token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 189
+2024-07-23 16:04:48 104.192.6.44 GET /api/getGrupoCarros id=JA&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-07-23 16:04:48 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 195
+2024-07-23 16:04:49 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 213
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 194
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-24&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 194
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-07-25&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 231
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-04&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 189
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-03&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 183
+2024-07-23 16:05:03 104.192.6.44 GET /api/getHorario id=JA&date=2024-08-04&token=7FXMRJYXU9C8 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 206
+2024-07-23 16:05:11 104.192.6.44 GET /api/setState token=7FXMRJYXU9C8&IDReservacion=PR-34VOWKFL4&IDOficinaReservacion=JA&FechaReservacion=2024-08-03%2008:00&Edad=25&IDOficinaRetorno=JA&FechaRetorno=2024-08-04%2008:00&IDCteLeal=&WebStatus=1&IDSippCodeSolicitado=0&IDCodDescuento= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 16:05:11 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 188
+2024-07-23 16:05:11 104.192.6.44 GET /api/setState IDReservacion=PR-34VOWKFL4&token=1OYQETTELHYG 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 218
+2024-07-23 16:05:12 104.192.6.44 GET /api/getPrecios token=1OYQETTELHYG&id=JA&fecha_inicial=2024-08-03%2008:00:00.000&fecha_final=2024-08-04%2008:00:00.000&Edad=25&id_cliente=&SIPPCode=0&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 414
+2024-07-23 16:05:13 104.192.6.44 GET /api/setState token=1OYQETTELHYG&IDReservacion=PR-34VOWKFL4&BanderaPrepago=1&WebStatus=2&IDSippCodeSeleccionado=MCAR&id_cliente=&DP=0&CDW=0&PAI=0&PLI=0&PLIA=0&ERA=0&CA=0&BS1=0&CM=0&GPS=0&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 261
+2024-07-23 16:05:13 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 140
+2024-07-23 16:05:13 104.192.6.44 GET /api/setState token=6LM14NU1VGCS&IDReservacion=PR-34VOWKFL4&DP=0&CDW=0&PAI=0&PLI=0&PLIA=0&ERA=0&CA=0&BS1=0&CM=0&GPS=0 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 16:05:13 104.192.6.44 GET /api/getSoloSeguros token=6LM14NU1VGCS&id=JA&fecha_inicial=2024-08-03%2008:00:00.000&fecha_final=2024-08-04%2008:00:00.000&Edad=25&SIPPCode=MCAR&id_cliente=&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 256
+2024-07-23 16:05:13 104.192.6.44 GET /api/guardarCotizacion token=6LM14NU1VGCS&codigo=PR-34VOWKFL4&id=JA&fecha_inicial=2024-08-03%2008:00:00.000&fecha_final=2024-08-04%2008:00:00.000&id_retorno=JA&id_promocion=&SIPPCode=MCAR&Edad=25&Prepago=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 262
+2024-07-23 16:05:14 104.192.6.44 GET /api/modificarCotizacion token=6LM14NU1VGCS&codigo=PR-34VOWKFL4&id=JA&id_promocion=&PLI=1&CDW=0&DP=0&PAI=0&CA=0&BS1=0&CM=0& 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 219
+2024-07-23 16:05:14 104.192.6.44 GET /api/setState token=6LM14NU1VGCS&IDReservacion=PR-34VOWKFL4&PLI=1&CDW=0&DP=0&PAI=0&CA=0&BS1=0&CM=0& 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 225
+2024-07-23 16:05:15 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 188
+2024-07-23 16:05:15 104.192.6.44 GET /api/setState token=M27N00URI5K&IDReservacion=PR-34VOWKFL4&id_promo=undefined 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 170
+2024-07-23 16:05:15 104.192.6.44 GET /api/modificarCotizacion token=M27N00URI5K&codigo=PR-34VOWKFL4&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 218
+2024-07-23 16:05:15 104.192.6.44 GET /api/getSoloSeguros token=M27N00URI5K&id=JA&fecha_inicial=2024-08-03%2008:00:00.000&fecha_final=2024-08-04%2008:00:00.000&Edad=25&SIPPCode=MCAR&id_cliente=&id_agencia=undefined&id_retorno=JA&id_promocion= 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 218
+2024-07-23 16:05:24 104.192.6.44 GET /api/modificarCotizacion token=M27N00URI5K&id=JA&nombre=test&paterno=test&materno=test&email=navi.ga931@gmail.com&telefono=+523531241128&licencia=&licencia_expira=&licencia_estado=&vuelo=&aerolinea=&codigo=PR-34VOWKFL4 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 182
+2024-07-23 16:05:24 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 176
+2024-07-23 16:05:24 104.192.6.44 GET /api/getReserva token=3B67YRCKZWAW&codigo=PR-34VOWKFL4&apellido=test&temporal=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 188
+2024-07-23 16:05:24 104.192.6.44 GET /api/getDomicilioOficina token=3B67YRCKZWAW&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 163
+2024-07-23 16:05:25 104.192.6.44 GET /api/getDomicilioOficina token=3B67YRCKZWAW&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 207
+2024-07-23 16:11:21 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 189.135.54.99 - - 200 0 0 243
+2024-07-23 16:11:23 104.192.6.44 GET /api/getReserva token=768QN7ZUKXCK&codigo=PR-34VOWKFL4&apellido=test&temporal=1 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 157
+2024-07-23 16:11:23 104.192.6.44 GET /api/getDomicilioOficina token=768QN7ZUKXCK&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 140
+2024-07-23 16:11:23 104.192.6.44 GET /api/getDomicilioOficina token=768QN7ZUKXCK&id=JA 8001 - 189.135.54.99 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/126.0.0.0+Safari/537.36 http://localhost/ 201 0 0 188
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 17:04:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 17:04:28 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 311
+2024-07-23 17:04:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 18:11:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 18:11:18 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 326
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 20:28:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 20:28:42 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 311
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 21:52:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 21:52:56 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 304
+2024-07-23 21:52:58 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 111
+2024-07-23 21:53:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 113
+2024-07-23 21:53:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 132
+2024-07-23 21:53:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 106
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-07-23 22:47:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-07-23 22:47:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 307

@@ -1,0 +1,125 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 01:19:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 01:19:49 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2130
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 03:23:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 03:23:35 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 323
+2023-11-17 03:23:37 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 125
+2023-11-17 03:23:39 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 92
+2023-11-17 03:23:39 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 100
+2023-11-17 03:23:40 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 99
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 05:01:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 05:01:26 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2715
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 07:14:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 07:14:31 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 292
+2023-11-17 07:14:32 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+2023-11-17 07:14:50 104.192.6.44 GET /api/getEdades token=70ERGEXVVKGV 8001 - 182.172.56.199 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 367
+2023-11-17 07:14:50 104.192.6.44 GET /api/getPage token=70ERGEXVVKGV 8001 - 182.172.56.199 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 389
+2023-11-17 07:14:50 104.192.6.44 GET /api/getPlaza token=70ERGEXVVKGV 8001 - 182.172.56.199 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 332
+2023-11-17 07:14:52 104.192.6.44 GET /api/getEdades token=70ERGEXVVKGV 8001 - 182.172.56.199 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 317
+2023-11-17 07:14:55 104.192.6.44 GET /api/getPage token=5UW0U4W84IS7 8001 - 46.227.113.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+17_0_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/17.0.1+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 301
+2023-11-17 07:14:55 104.192.6.44 GET /api/getPlaza token=5UW0U4W84IS7 8001 - 46.227.113.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+17_0_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/17.0.1+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 279
+2023-11-17 07:14:55 104.192.6.44 GET /api/getEdades token=5UW0U4W84IS7 8001 - 46.227.113.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+17_0_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/17.0.1+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 327
+2023-11-17 07:14:56 104.192.6.44 GET /api/getEdades token=5UW0U4W84IS7 8001 - 46.227.113.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+17_0_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/17.0.1+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 270
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 09:47:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 09:47:53 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2453
+2023-11-17 09:59:35 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 181
+2023-11-17 09:59:35 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+2023-11-17 09:59:53 104.192.6.44 GET /api/getPlaza token=IM6DCIFQM8N 8001 - 185.118.50.228 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 356
+2023-11-17 09:59:53 104.192.6.44 GET /api/getEdades token=IM6DCIFQM8N 8001 - 185.118.50.228 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 397
+2023-11-17 09:59:53 104.192.6.44 GET /api/getPage token=IM6DCIFQM8N 8001 - 185.118.50.228 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 385
+2023-11-17 09:59:55 104.192.6.44 GET /api/getEdades token=IM6DCIFQM8N 8001 - 185.118.50.228 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 325
+2023-11-17 09:59:55 104.192.6.44 GET /api/getPlaza token=1LCF1CVF2E8R 8001 - 31.209.136.69 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 252
+2023-11-17 09:59:55 104.192.6.44 GET /api/getEdades token=1LCF1CVF2E8R 8001 - 31.209.136.69 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 235
+2023-11-17 09:59:55 104.192.6.44 GET /api/getPage token=1LCF1CVF2E8R 8001 - 31.209.136.69 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 236
+2023-11-17 09:59:59 104.192.6.44 GET /api/getEdades token=1LCF1CVF2E8R 8001 - 31.209.136.69 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 263
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 11:07:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 11:07:21 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 307
+2023-11-17 11:09:07 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 133
+2023-11-17 11:09:08 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 151
+2023-11-17 11:09:15 104.192.6.44 GET /api/getPage token=3NCYWT643ACB 8001 - 189.199.105.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 242
+2023-11-17 11:09:15 104.192.6.44 GET /api/getEdades token=3NCYWT643ACB 8001 - 189.199.105.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 284
+2023-11-17 11:09:15 104.192.6.44 GET /api/getPlaza token=3NCYWT643ACB 8001 - 189.199.105.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 288
+2023-11-17 11:09:16 104.192.6.44 GET /api/getEdades token=3NCYWT643ACB 8001 - 189.199.105.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 228
+2023-11-17 11:09:17 104.192.6.44 GET /api/getPage token=JS72063U2ZB 8001 - 46.227.113.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 261
+2023-11-17 11:09:17 104.192.6.44 GET /api/getEdades token=JS72063U2ZB 8001 - 46.227.113.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 248
+2023-11-17 11:09:19 104.192.6.44 GET /api/getEdades token=JS72063U2ZB 8001 - 46.227.113.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 233
+2023-11-17 11:09:50 104.192.6.44 GET /api/getPlaza token=JS72063U2ZB 8001 - 46.227.113.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 234
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 11:55:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 11:55:12 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 4733
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 12:44:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 12:44:09 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2257
+2023-11-17 12:44:17 104.192.6.44 GET /api/getEdades token=4DSNHF5L72QB 8001 - 187.251.99.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 287
+2023-11-17 12:44:17 104.192.6.44 GET /api/getPage token=4DSNHF5L72QB 8001 - 187.251.99.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 300
+2023-11-17 12:44:17 104.192.6.44 GET /api/getPlaza token=4DSNHF5L72QB 8001 - 187.251.99.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 290
+2023-11-17 12:44:18 104.192.6.44 GET /api/getEdades token=4DSNHF5L72QB 8001 - 187.251.99.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/119.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 218
+2023-11-17 12:44:19 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 95
+2023-11-17 12:44:38 104.192.6.44 GET /api/getPage token=45XXH90MGCGR 8001 - 182.172.56.228 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 319
+2023-11-17 12:44:38 104.192.6.44 GET /api/getPlaza token=45XXH90MGCGR 8001 - 182.172.56.228 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 289
+2023-11-17 12:44:38 104.192.6.44 GET /api/getEdades token=45XXH90MGCGR 8001 - 182.172.56.228 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 293
+2023-11-17 12:44:41 104.192.6.44 GET /api/getEdades token=45XXH90MGCGR 8001 - 182.172.56.228 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+16_6_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/16.6+Mobile/15E148+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 326
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 13:14:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 13:14:14 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 339
+2023-11-17 13:24:41 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 186
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 15:35:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 15:35:43 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 306
+2023-11-17 15:35:44 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 110
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 18:27:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 18:27:50 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 2733
+2023-11-17 18:40:29 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 3835
+2023-11-17 18:40:29 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 4695
+2023-11-17 18:40:41 104.192.6.44 GET /api/getPlaza token=589ID5CZ4NGB 8001 - 186.68.154.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_0+like+Mac+OS+X)+AppleWebKit/604.1.38+(KHTML,+like+Gecko)+Version/11.0+Mobile/15A372+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 298
+2023-11-17 18:40:41 104.192.6.44 GET /api/getPage token=589ID5CZ4NGB 8001 - 186.68.154.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_0+like+Mac+OS+X)+AppleWebKit/604.1.38+(KHTML,+like+Gecko)+Version/11.0+Mobile/15A372+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 309
+2023-11-17 18:40:41 104.192.6.44 GET /api/getEdades token=589ID5CZ4NGB 8001 - 186.68.154.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_0+like+Mac+OS+X)+AppleWebKit/604.1.38+(KHTML,+like+Gecko)+Version/11.0+Mobile/15A372+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 285
+2023-11-17 18:40:43 104.192.6.44 GET /api/getPlaza token=3J39IFT9788J 8001 - 157.157.135.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 243
+2023-11-17 18:40:43 104.192.6.44 GET /api/getEdades token=3J39IFT9788J 8001 - 157.157.135.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 238
+2023-11-17 18:40:43 104.192.6.44 GET /api/getPage token=3J39IFT9788J 8001 - 157.157.135.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 229
+2023-11-17 18:40:43 104.192.6.44 GET /api/getEdades token=589ID5CZ4NGB 8001 - 186.68.154.4 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_0+like+Mac+OS+X)+AppleWebKit/604.1.38+(KHTML,+like+Gecko)+Version/11.0+Mobile/15A372+Safari/604.1 https://www.pricelesscarrental.mx/ 201 0 0 240
+2023-11-17 18:40:44 104.192.6.44 GET /api/getEdades token=3J39IFT9788J 8001 - 157.157.135.37 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/118.0.0.0+Safari/537.36 https://www.pricelesscarrental.mx/ 201 0 0 225
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 19:50:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 19:50:44 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 302
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 20:47:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 20:47:37 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 316
+2023-11-17 20:47:37 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 120
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2023-11-17 22:10:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2023-11-17 22:10:47 104.192.6.44 GET /api/getToken key=HJFKDISY127364BDK&minutes=60 8001 - 74.208.59.215 - - 200 0 0 355
