@@ -47,6 +47,8 @@ Route::get('/setState',['uses'=>'Control@setState','as'=>'Control.setState']);
 Route::get('/getPersonas',['uses'=>'Control@getPersonas','as'=>'Control.getPersonas']);
 Route::get('/getToken',['uses'=>'Control@getToken','as'=>'Control.getToken']);
 
+Route::post('/recibirReserva',['uses'=>'Control@recibirReserva','as'=>'Control.recibirReserva']);
+
 
 Route::post('/pagoStripe',['uses'=>'StripeController@pagoStripe','as'=>'Control.pagoStripe']);
 

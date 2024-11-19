@@ -830,4 +830,484 @@ class Control extends Controller
 
     return Response::json(true,200);
   }
+  public function recibirReserva(Request $request) //Funcion para recibir reservas en un principio para optima
+  {
+
+    $request_viejo = $request->all();
+    $request = Conversiones::checkArray($request);
+
+    //Verificar cracteres especiales por Sql Injection
+    $diferencia = array_diff($request, $request_viejo);
+    if([] != $diferencia)
+    {
+      return Response::json("Caracteres especiales no soportados",400);
+    }
+
+    //Si no hay token mandar mensaje de error que no hay token
+    if(!isset($request['token']))
+    {
+      return Response::json("Token no recibido",400);
+    }
+
+    $token = $request['token'];
+
+    $count = DB::select("SELECT COUNT(Token) as numero FROM dbo.[WebToken] WHERE Token = '$token' AND GETDATE() < FechaCaducidad");
+    if(null == $count)
+    {
+      //Entonces no tenemos token
+      return Response::json("Token no valido",400);
+    }
+
+    $count = $count[0]->numero;
+    if($count == 0)
+    {
+      //Entonces no tenemos token
+      return Response::json("Token no valido",400);
+    }
+
+
+    //Verificar parámetros necesarios
+    if(! (isset($request['token']) && isset($request['IDReservacion']) && isset($request['TipoMovRegistro']) && isset($request['IDSIPPCode']) && isset($request['FechaControl'])
+    && isset($request['ApellidoPaterno']) && isset($request['ApellidoMaterno']) && isset($request['Nombre']) && isset($request['Moneda'])
+    && isset($request['IDOficinaReservacion']) && isset($request['FechaReservacion']) && isset($request['IDOficinaRetorno']) && isset($request['FechaRetorno'])
+    && isset($request['DiasRenta']) && isset($request['HorasRenta']) && isset($request['TarifaMesTK']) && isset($request['CantidadMes'])
+    && isset($request['ImporteMesTK']) && isset($request['TarifaSemanaTK']) && isset($request['CantidadSemana']) && isset($request['ImporteSemanaTK'])
+    && isset($request['TarifaDiaExtraTK']) && isset($request['CantidadDiaExtra']) && isset($request['ImporteDiaExtraTK']) && isset($request['TarifaDiaTK'])
+    && isset($request['CantidadDia']) && isset($request['ImporteDiaTK']) && isset($request['TarifaHoraTK']) && isset($request['CantidadHora'])
+    && isset($request['ImporteHoraTK']) && isset($request['BanderaPrepago']) && isset($request['TotalTK']) && isset($request['CostoDiaDP']) && isset($request['BanderaDP'])
+    && isset($request['ImporteDP']) && isset($request['CostoDiaCDW']) && isset($request['BanderaCDW']) && isset($request['ImporteCDW'])
+    && isset($request['CostoDiaPAI']) && isset($request['BanderaPAI']) && isset($request['ImportePAI']) && isset($request['CostoDiaPLI'])
+    && isset($request['BanderaPLI']) && isset($request['ImportePLI']) && isset($request['TotalCoberturas']) && isset($request['CargoDropOff']) && isset($request['TotalExtras'])
+    && isset($request['BanderaAirportFee'])
+    && isset($request['PorAirportFee']) && isset($request['MontoAirportFee']) && isset($request['ImporteDescuento']) && isset($request['ImporteDescuentoPpgo'])
+    && isset($request['Subtotal']) && isset($request['BanderaIVA']) && isset($request['PorIva']) && isset($request['MontoIva'])
+    && isset($request['Total']) && isset($request['Comentarios']) && isset($request['MensajeEstimado']) && isset($request['Email'])
+    && isset($request['MontoPagado']) && isset($request['Dom_Permanente']) && isset($request['Telefono']) && isset($request['Aerolinea'])
+    && isset($request['Vuelo']) && isset($request['Cte_RFC']) && isset($request['Cte_RegimenFiscal']) && isset($request['Cte_Nombre'])
+    && isset($request['Cte_CP']) && isset($request['Cte_UsoCFDI']) && isset($request['Cte_FormaPago']) && isset($request['Cte_MetodoPago'])
+    && isset($request['Cte_Calle']) && isset($request['Cte_NumExt']) && isset($request['Cte_NumInterior']) && isset($request['Cte_Municipio'])
+    && isset($request['Cte_Colonia'])&& isset($request['Cte_Ciudad']) && isset($request['Cte_Estado']) && isset($request['Cte_Pais']) ) )
+    {
+      return Response::json("Los parametros enviados no son suficientes, favor de leer la documentación de la función recibirReserva",400);
+    }
+    //Pasamos el filtro, nos mandaron todos los parámetros necesarios
+
+    //Cambiar de arreglo asociativo a objecto
+    $parametros = (object) $request;
+
+    try {
+        // Código que puede generar una excepción
+      //Ahora a insertar los valores
+      $insercion = DB::insert("SET DATEFORMAT YMD;
+      INSERT INTO dbo.WebReservasHIST
+      ([IDReservacion]
+        ,[TipoReservacion]
+        ,[TipoMovRegistro]
+        ,[IDPCode]
+        ,[IDTarifa]
+        ,[IDAgencia]
+        ,[IDComisionista]
+        ,[IDSIPPCode]
+        ,[IDCodDescuento]
+        ,[IDCteLeal]
+        ,[IDPCS]
+        ,[FechaHoraOperacion]
+        ,[FechaControl]
+        ,[OrigenReservacion]
+        ,[Status]
+        ,[ApellidoPaterno]
+        ,[ApellidoMaterno]
+        ,[Nombre]
+        ,[NombreCompleto]
+        ,[Moneda]
+        ,[TDCaplicado]
+        ,[IDOficinaReservacion]
+        ,[FechaReservacion]
+        ,[HoraReservacion]
+        ,[IDOficinaRetorno]
+        ,[FechaRetorno]
+        ,[HoraRetorno]
+        ,[IDPlazaReservacion]
+        ,[IDPlazaRetorno]
+        ,[DiasRenta]
+        ,[HorasRenta]
+        ,[DiasXMes]
+        ,[DiasXSemana]
+        ,[TarifaMesTTI]
+        ,[TarifaMesTK]
+        ,[CantidadMes]
+        ,[ImporteMesTK]
+        ,[TarifaSemanaTTI]
+        ,[TarifaSemanaTK]
+        ,[CantidadSemana]
+        ,[ImporteSemanaTK]
+        ,[TarifaDiaExtraTTI]
+        ,[TarifaDiaExtraTK]
+        ,[CantidadDiaExtra]
+        ,[ImporteDiaExtraTK]
+        ,[TarifaDiaTTI]
+        ,[TarifaDiaTK]
+        ,[CantidadDia]
+        ,[ImporteDiaTK]
+        ,[TarifaFinSemanaTTI]
+        ,[TarifaFinSemanaTK]
+        ,[CantidadDiaFinSemana]
+        ,[ImporteDiaFinSemanaTK]
+        ,[TarifaHoraTTI]
+        ,[TarifaHoraTK]
+        ,[CantidadHora]
+        ,[ImporteHoraTK]
+        ,[ImporteDescuentoTK]
+        ,[TotalTK]
+        ,[BanderaPrepago]
+        ,[TitDP]
+        ,[CostoDiaDP]
+        ,[BanderaDP]
+        ,[ImporteDP]
+        ,[TitCDW]
+        ,[CostoDiaCDW]
+        ,[BanderaCDW]
+        ,[ImporteCDW]
+        ,[PorcentajeDeducibleRobo]
+        ,[PorcentajeDeducibleDanos]
+        ,[DeducibleCDW]
+        ,[TitPAI]
+        ,[CostoDiaPAI]
+        ,[BanderaPAI]
+        ,[ImportePAI]
+        ,[TextoMontoMaximoPAI]
+        ,[TitPLI]
+        ,[CostoDiaPLI]
+        ,[BanderaPLI]
+        ,[ImportePLI]
+        ,[MontoMaximoPLI]
+        ,[TitPLIA]
+        ,[CostoDiaPLIA]
+        ,[BanderaPLIA]
+        ,[ImportePLIA]
+        ,[MontoMaximoPLIA]
+        ,[TitMDW]
+        ,[CostoDiaMDW]
+        ,[BanderaMDW]
+        ,[ImporteMDW]
+        ,[MontoMaximoMDW]
+        ,[TotalCoberturas]
+        ,[TitERA]
+        ,[CostoDiaERA]
+        ,[BanderaERA]
+        ,[CantidadERA]
+        ,[ImporteERA]
+        ,[TitETS]
+        ,[CostoDiaETS]
+        ,[BanderaETS]
+        ,[CantidadETS]
+        ,[ImporteETS]
+        ,[TitCA]
+        ,[CostoDiaCA]
+        ,[BanderaCA]
+        ,[CantidadCA]
+        ,[ImporteCA]
+        ,[TitBS1]
+        ,[CostoDiaBS1]
+        ,[BanderaBS1]
+        ,[CantidadBS1]
+        ,[ImporteBS1]
+        ,[TitBS2]
+        ,[CostoDiaBS2]
+        ,[BanderaBS2]
+        ,[CantidadBS2]
+        ,[ImporteBS2]
+        ,[TitBS3]
+        ,[CostoDiaBS3]
+        ,[BanderaBS3]
+        ,[CantidadBS3]
+        ,[ImporteBS3]
+        ,[TitCM]
+        ,[CostoDiaCM]
+        ,[BanderaCM]
+        ,[CantidadCM]
+        ,[ImporteCM]
+        ,[TitGPS]
+        ,[CostoDiaGPS]
+        ,[BanderaGPS]
+        ,[CantidadGPS]
+        ,[ImporteGPS]
+        ,[CargoPickup]
+        ,[ComentarioPickup]
+        ,[CargoDropOff]
+        ,[TotalExtras]
+        ,[BanderaLCRFee]
+        ,[CargoLCRFee]
+        ,[BanderaSCFee]
+        ,[CargoSCFee]
+        ,[AplicacionCCFee]
+        ,[BanderaCCFee]
+        ,[CargoCCFee]
+        ,[BanderaAirportFee]
+        ,[PorAirportFee]
+        ,[MontoAirportFee]
+        ,[BanderaHotelFee]
+        ,[PorHotelFee]
+        ,[MontoHotelFee]
+        ,[ImporteDescuento]
+        ,[ImporteDescuentoPpgo]
+        ,[Subtotal]
+        ,[BanderaIVA]
+        ,[PorIva]
+        ,[MontoIva]
+        ,[Total]
+        ,[TotalOrigen]
+        ,[Comentarios]
+        ,[MensajeEstimado]
+        ,[Email]
+        ,[MontoPagado]
+        ,[SerieCFD]
+        ,[FolioCFD]
+        ,[FechaCFD]
+        ,[MetodoPago]
+        ,[FormaPago]
+        ,[CuentaPago]
+        ,[Banco]
+        ,[TipoTdC]
+        ,[NumeroTdC]
+        ,[CodSegTdC]
+        ,[TC_Expira]
+        ,[TC_Aut]
+        ,[Dom_Local]
+        ,[Dom_Permanente]
+        ,[Edad]
+        ,[Telefono]
+        ,[Con_Lic]
+        ,[Con_Lic_Expira]
+        ,[Con_Lic_Edo]
+        ,[CteVIP]
+        ,[Aerolinea]
+        ,[Vuelo]
+        ,[StatusEnvioMail]
+        ,[FechaLecturaJR]
+        ,[FechaEnvioMail]
+        ,[Cte_RFC]
+        ,[Cte_RegimenFiscal]
+        ,[Cte_Nombre]
+        ,[Cte_CP]
+        ,[Cte_UsoCFDI]
+        ,[Cte_FormaPago]
+        ,[Cte_MetodoPago]
+        ,[Cte_Calle]
+        ,[Cte_NumExt]
+        ,[Cte_NumInterior]
+        ,[Cte_Municipio]
+        ,[Cte_Colonia]
+        ,[Cte_Ciudad]
+        ,[Cte_Estado]
+        ,[Cte_Pais])
+        VALUES ('$parametros->IDReservacion'
+          ,'WebServiceJR'
+          ,'$parametros->TipoMovRegistro'
+          ,''
+          ,''
+          ,''
+          ,''
+          ,'$parametros->IDSIPPCode'
+          ,''
+          ,''
+          ,''
+          ,getdate()
+          ,'$parametros->FechaControl'
+          ,''
+          ,'$parametros->TipoMovRegistro'
+          ,'$parametros->ApellidoPaterno'
+          ,'$parametros->ApellidoMaterno'
+          ,'$parametros->Nombre'
+          ,'$parametros->Nombre $parametros->ApellidoPaterno $parametros->ApellidoMaterno'
+          ,'$parametros->Moneda'
+          ,0
+          ,'$parametros->IDOficinaReservacion'
+          ,'$parametros->FechaRetorno'
+          ,NULL
+          ,'$parametros->IDOficinaRetorno'
+          ,'$parametros->FechaReservacion'
+          ,NULL
+          ,''
+          ,''
+         ,$parametros->DiasRenta
+         ,$parametros->HorasRenta
+         ,NULL
+         ,NULL
+         ,NULL
+         ,$parametros->TarifaMesTK
+         ,$parametros->CantidadMes
+         ,$parametros->ImporteMesTK
+         ,0
+         ,$parametros->TarifaSemanaTK
+         ,$parametros->CantidadSemana
+         ,$parametros->ImporteSemanaTK
+         ,0
+         ,$parametros->TarifaDiaExtraTK
+         ,$parametros->CantidadDiaExtra
+         ,$parametros->ImporteDiaExtraTK
+         ,0
+         ,$parametros->TarifaDiaTK
+         ,$parametros->CantidadDia
+         ,$parametros->ImporteDiaTK
+         ,0
+         ,0
+         ,0
+         ,0
+         ,0
+         ,$parametros->TarifaHoraTK
+         ,$parametros->CantidadHora
+         ,$parametros->ImporteHoraTK
+         ,0
+         ,$parametros->TotalTK
+         ,$parametros->BanderaPrepago
+         ,''
+         ,$parametros->CostoDiaDP
+         ,$parametros->BanderaDP
+         ,$parametros->ImporteDP
+         ,''
+         ,$parametros->CostoDiaCDW
+         ,$parametros->BanderaCDW
+         ,$parametros->ImporteCDW
+         ,NULL
+         ,NULL
+         ,NULL
+         ,''
+         ,$parametros->CostoDiaPAI
+         ,$parametros->BanderaPAI
+         ,$parametros->ImportePAI
+         ,''
+         ,''
+         ,$parametros->CostoDiaPLI
+         ,$parametros->BanderaPLI
+         ,$parametros->ImportePLI
+         ,NULL
+         ,''
+         ,0
+         ,0
+         ,0
+         ,NULL
+         ,''
+         ,0
+         ,0
+         ,0
+         ,NULL
+         ,$parametros->TotalCoberturas
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,0
+         ,0
+         ,0
+         ,0
+         ,0
+         ,''
+         ,$parametros->CargoDropOff
+         ,$parametros->TotalExtras
+         ,0
+         ,0
+         ,0
+         ,0
+         ,NULL
+         ,NULL
+         ,NULL
+         ,$parametros->BanderaAirportFee
+         ,$parametros->PorAirportFee
+         ,$parametros->MontoAirportFee
+         ,0
+         ,0
+         ,0
+         ,$parametros->ImporteDescuento
+         ,$parametros->ImporteDescuentoPpgo
+         ,$parametros->Subtotal
+         ,$parametros->BanderaIVA
+         ,$parametros->PorIva
+         ,$parametros->MontoIva
+         ,$parametros->Total
+         ,0
+         ,'$parametros->Comentarios'
+         ,'$parametros->MensajeEstimado'
+         ,'$parametros->Email'
+         ,$parametros->MontoPagado
+         ,' '
+         ,' '
+         ,NULL
+         ,' '
+         ,' '
+         ,' '
+         ,' '
+         ,' '
+         ,' '
+         ,' '
+         ,NULL
+         ,' '
+         ,' '
+         ,'$parametros->Dom_Permanente'
+         ,0
+         ,'$parametros->Telefono'
+         ,''
+         ,''
+         ,''
+         ,0
+         ,'$parametros->Aerolinea'
+         ,'$parametros->Vuelo'
+         ,0
+         ,NULL
+         ,NULL
+         ,'$parametros->Cte_RFC'
+         ,'$parametros->Cte_RegimenFiscal'
+         ,'$parametros->Cte_Nombre'
+         ,'$parametros->Cte_CP'
+         ,'$parametros->Cte_UsoCFDI'
+         ,'$parametros->Cte_FormaPago'
+         ,'$parametros->Cte_MetodoPago'
+         ,'$parametros->Cte_Calle'
+         ,'$parametros->Cte_NumExt'
+         ,'$parametros->Cte_NumInterior'
+         ,'$parametros->Cte_Municipio'
+         ,'$parametros->Cte_Colonia'
+         ,'$parametros->Cte_Ciudad'
+         ,'$parametros->Cte_Estado'
+         ,'$parametros->Cte_Pais')");
+
+     } catch (Exception $e) {
+         // Código para manejar la excepción
+         return Response::json("Favor de revisar los parámetros y el tipo de dato de ellos",200);
+     }
+
+    return Response::json($insercion,200);
+  }
 }
