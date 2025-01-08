@@ -1305,7 +1305,7 @@ class Control extends Controller
 
      } catch (Exception $e) {
          // Código para manejar la excepción
-         return Response::json("Favor de revisar los parámetros y el tipo de dato de ellos",200);
+         return Response::json("Favor de revisar los parámetros y el tipo de dato de ellos",400);
      }
 
     return Response::json($insercion,200);
