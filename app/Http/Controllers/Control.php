@@ -865,7 +865,6 @@ class Control extends Controller
       return Response::json("Token no valido",400);
     }
 
-
     //Verificar parámetros necesarios
     if(! (isset($request['token']) && isset($request['IDReservacion']) && isset($request['TipoMovRegistro']) && isset($request['IDSIPPCode']) && isset($request['FechaControl'])
     && isset($request['ApellidoPaterno']) && isset($request['ApellidoMaterno']) && isset($request['Nombre']) && isset($request['Moneda'])
