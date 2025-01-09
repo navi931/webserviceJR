@@ -846,7 +846,7 @@ class Control extends Controller
     //Si no hay token mandar mensaje de error que no hay token
     if(!isset($request['token']))
     {
-      return Response::json("Token no recibido",400);
+      return Response::json("Error Token no recibido",400);
     }
 
     $token = $request['token'];
@@ -855,14 +855,14 @@ class Control extends Controller
     if(null == $count)
     {
       //Entonces no tenemos token
-      return Response::json("Token no valido",400);
+      return Response::json("Error Token no valido",400);
     }
 
     $count = $count[0]->numero;
     if($count == 0)
     {
       //Entonces no tenemos token
-      return Response::json("Token no valido",400);
+      return Response::json("Error Token no valido",400);
     }
 
     //Verificar parámetros necesarios
@@ -887,7 +887,7 @@ class Control extends Controller
     && isset($request['Cte_Calle']) && isset($request['Cte_NumExt']) && isset($request['Cte_NumInterior']) && isset($request['Cte_Municipio'])
     && isset($request['Cte_Colonia'])&& isset($request['Cte_Ciudad']) && isset($request['Cte_Estado']) && isset($request['Cte_Pais']) ) )
     {
-      return Response::json("Los parametros enviados no son suficientes, favor de leer la documentación de la función recibirReserva",400);
+      return Response::json("Error Los parametros enviados no son suficientes, favor de leer la documentación de la función recibirReserva",400);
     }
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
 
@@ -1304,7 +1304,7 @@ class Control extends Controller
 
      } catch (Exception $e) {
          // Código para manejar la excepción
-         return Response::json("Favor de revisar los parámetros y el tipo de dato de ellos",400);
+         return Response::json("Error Favor de revisar los parámetros y el tipo de dato de ellos",400);
      }
 
     return Response::json($insercion,200);
