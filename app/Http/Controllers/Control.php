@@ -840,7 +840,7 @@ class Control extends Controller
     $diferencia = array_diff($request, $request_viejo);
     if([] != $diferencia)
     {
-      return Response::json("Caracteres especiales no soportados",400);
+      // return Response::json("Caracteres especiales no soportados",400);
     }
 
     //Si no hay token mandar mensaje de error que no hay token
