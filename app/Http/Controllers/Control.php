@@ -891,6 +891,34 @@ class Control extends Controller
     }
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
 
+    //Revisar si el las oficinas las tenemos para traducirlas
+    $request['IDOficinaReservacion'];
+    $request['IDOficinaRetorno'];
+
+    $oficinareservaciontemporal = $request['IDOficinaReservacion'];
+    $oreservacion = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE NombreSF = '$oficinareservaciontemporal'");
+
+    if(null == $oreservacion)
+    {
+      //Entonces no tenemos la oficina de salida
+      return Response::json("oficina de reservacion no válida favor de comunicarse con JR Computación para dar de alta la otra oficina",400);
+    }
+
+    $request['IDOficinaReservacion'] = $oreservacion[0]->LocacionJRSF;
+
+    //Ahora va la oficina de retorno
+
+    $oficinaretornotemporal = $request['IDOficinaRetorno'];
+    $oretorno = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE NombreSF = '$oficinaretornotemporal'");
+
+    if(null == $oretorno)
+    {
+      //Entonces no tenemos la oficina de retorno
+      return Response::json("oficina de retorno no válida favor de comunicarse con JR Computación para dar de alta la otra oficina",400);
+    }
+
+    $request['IDOficinaRetorno'] = $oretorno[0]->LocacionJRSF;
+
     //Cambiar de arreglo asociativo a objecto
     $parametros = (object) $request;
 
