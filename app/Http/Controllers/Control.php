@@ -896,7 +896,7 @@ class Control extends Controller
     $request['IDOficinaRetorno'];
 
     $oficinareservaciontemporal = $request['IDOficinaReservacion'];
-    $oreservacion = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE NombreSF = '$oficinareservaciontemporal'");
+    $oreservacion = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE IDLocacion = '$oficinareservaciontemporal'");
 
     if(null == $oreservacion)
     {
@@ -909,7 +909,7 @@ class Control extends Controller
     //Ahora va la oficina de retorno
 
     $oficinaretornotemporal = $request['IDOficinaRetorno'];
-    $oretorno = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE NombreSF = '$oficinaretornotemporal'");
+    $oretorno = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE IDLocacion = '$oficinaretornotemporal'");
 
     if(null == $oretorno)
     {
