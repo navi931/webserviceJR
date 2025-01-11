@@ -921,24 +921,24 @@ class Control extends Controller
 
     //En Optima todas sus tarifas son TTI de manera que hay que asignar la Tarifa TK a TTI (mensaje de JuanRoberto 11/01/2025)
     //Mes
-    $request['TarifaMesTTI'] = $request['TarifaMesTK']
-    $request['TarifaMesTK'] = 0.00
+    $request['TarifaMesTTI'] = $request['TarifaMesTK'];
+    $request['TarifaMesTK'] = 0.00;
 
     //Semana
-    $request['TarifaSemanaTTI'] = $request['TarifaSemanaTK']
-    $request['TarifaSemanaTK'] = 0.00
+    $request['TarifaSemanaTTI'] = $request['TarifaSemanaTK'];
+    $request['TarifaSemanaTK'] = 0.00;
 
     //Dia Extra
-    $request['TarifaDiaExtraTTI'] = $request['TarifaDiaExtraTK']
-    $request['TarifaDiaExtraTK'] = 0.00
+    $request['TarifaDiaExtraTTI'] = $request['TarifaDiaExtraTK'];
+    $request['TarifaDiaExtraTK'] = 0.00;
 
     //Dia
-    $request['TarifaDiaTTI'] = $request['TarifaDiaTK']
-    $request['TarifaDiaTK'] = 0.00
+    $request['TarifaDiaTTI'] = $request['TarifaDiaTK'];
+    $request['TarifaDiaTK'] = 0.00;
 
     //Hora
-    $request['TarifaHoraTTI'] = $request['TarifaHoraTK']
-    $request['TarifaHoraTK'] = 0.00
+    $request['TarifaHoraTTI'] = $request['TarifaHoraTK'];
+    $request['TarifaHoraTK'] = 0.00;
 
     //Cambiar de arreglo asociativo a objecto
     $parametros = (object) $request;
