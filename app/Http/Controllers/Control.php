@@ -919,6 +919,27 @@ class Control extends Controller
 
     $request['IDOficinaRetorno'] = $oretorno[0]->LocacionJRSF;
 
+    //En Optima todas sus tarifas son TTI de manera que hay que asignar la Tarifa TK a TTI (mensaje de JuanRoberto 11/01/2025)
+    //Mes
+    $request['TarifaMesTTI'] = $request['TarifaMesTK']
+    $request['TarifaMesTK'] = 0.00
+
+    //Semana
+    $request['TarifaSemanaTTI'] = $request['TarifaSemanaTK']
+    $request['TarifaSemanaTK'] = 0.00
+
+    //Dia Extra
+    $request['TarifaDiaExtraTTI'] = $request['TarifaDiaExtraTK']
+    $request['TarifaDiaExtraTK'] = 0.00
+
+    //Dia
+    $request['TarifaDiaTTI'] = $request['TarifaDiaTK']
+    $request['TarifaDiaTK'] = 0.00
+
+    //Hora
+    $request['TarifaHoraTTI'] = $request['TarifaHoraTK']
+    $request['TarifaHoraTK'] = 0.00
+
     //Cambiar de arreglo asociativo a objecto
     $parametros = (object) $request;
 
@@ -1161,19 +1182,19 @@ class Control extends Controller
          ,$parametros->HorasRenta
          ,NULL
          ,NULL
-         ,NULL
+         ,$parametros->TarifaMesTTI
          ,$parametros->TarifaMesTK
          ,$parametros->CantidadMes
          ,$parametros->ImporteMesTK
-         ,0
+         ,$parametros->TarifaSemanaTTI
          ,$parametros->TarifaSemanaTK
          ,$parametros->CantidadSemana
          ,$parametros->ImporteSemanaTK
-         ,0
+         ,$parametros->TarifaDiaExtraTTI
          ,$parametros->TarifaDiaExtraTK
          ,$parametros->CantidadDiaExtra
          ,$parametros->ImporteDiaExtraTK
-         ,0
+         ,$parametros->TarifaDiaTTI
          ,$parametros->TarifaDiaTK
          ,$parametros->CantidadDia
          ,$parametros->ImporteDiaTK
@@ -1181,7 +1202,7 @@ class Control extends Controller
          ,0
          ,0
          ,0
-         ,0
+         ,$parametros->TarifaHoraTTI
          ,$parametros->TarifaHoraTK
          ,$parametros->CantidadHora
          ,$parametros->ImporteHoraTK
