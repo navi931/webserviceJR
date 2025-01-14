@@ -892,9 +892,6 @@ class Control extends Controller
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
 
     //Revisar si el las oficinas las tenemos para traducirlas
-    $request['IDOficinaReservacion'];
-    $request['IDOficinaRetorno'];
-
     $oficinareservaciontemporal = $request['IDOficinaReservacion'];
     $oreservacion = DB::select("SELECT TOP (1) LocacionJRSF FROM dbo.[SFLocaciones] WHERE IDLocacion = '$oficinareservaciontemporal'");
 
@@ -1171,10 +1168,10 @@ class Control extends Controller
           ,'$parametros->Moneda'
           ,0
           ,'$parametros->IDOficinaReservacion'
-          ,'$parametros->FechaRetorno'
+          ,'$parametros->FechaReservacion'
           ,NULL
           ,'$parametros->IDOficinaRetorno'
-          ,'$parametros->FechaReservacion'
+          ,'$parametros->FechaRetorno'
           ,NULL
           ,''
           ,''
