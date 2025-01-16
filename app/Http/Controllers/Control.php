@@ -1207,25 +1207,25 @@ class Control extends Controller
          ,$parametros->TotalTK
          ,$parametros->BanderaPrepago
          ,''
-         ,$parametros->CostoDiaDP
-         ,$parametros->BanderaDP
-         ,$parametros->ImporteDP
+         ,0
+         ,0
+         ,0
          ,''
-         ,$parametros->CostoDiaCDW
-         ,$parametros->BanderaCDW
-         ,$parametros->ImporteCDW
+         ,0.01
+         ,1
+         ,0.01
          ,NULL
          ,NULL
          ,NULL
          ,''
-         ,$parametros->CostoDiaPAI
-         ,$parametros->BanderaPAI
-         ,$parametros->ImportePAI
+         ,0
+         ,0
+         ,0
          ,''
          ,''
-         ,$parametros->CostoDiaPLI
-         ,$parametros->BanderaPLI
-         ,$parametros->ImportePLI
+         ,0.01
+         ,1
+         ,0.01
          ,NULL
          ,''
          ,0
