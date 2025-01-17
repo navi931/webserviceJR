@@ -889,6 +889,15 @@ class Control extends Controller
     {
       return Response::json("Error Los parametros enviados no son suficientes, favor de leer la documentación de la función recibirReserva",400);
     }
+    if(isset($request['FormaPago']))
+    {
+
+    }
+    else
+    {
+      $request['FormaPago'] = '';
+    }
+
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
 
     //Revisar si el las oficinas las tenemos para traducirlas
@@ -1311,7 +1320,7 @@ class Control extends Controller
          ,' '
          ,NULL
          ,' '
-         ,' '
+         ,'$parametros->FormaPago'
          ,' '
          ,' '
          ,' '
