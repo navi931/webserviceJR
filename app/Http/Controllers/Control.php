@@ -891,7 +891,7 @@ class Control extends Controller
     }
     if(isset($request['FormaPago']))
     {
-
+      //Dejamos la Forma Pago
     }
     else
     {
