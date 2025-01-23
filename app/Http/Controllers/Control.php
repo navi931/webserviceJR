@@ -908,7 +908,7 @@ class Control extends Controller
           $request['IDSIPPCode'] = substr($idsippCode, 0, 4);
 
           // Obtener los caracteres a partir del quinto y asignarlos a $sippdos
-          $sippdos = intval(substr($idsippCode, 4));
+          $sippdos = intval($idsippCode[4]);
       }
 
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
