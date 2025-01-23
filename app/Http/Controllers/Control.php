@@ -898,7 +898,7 @@ class Control extends Controller
       $request['TipoPago'] = '';
     }
 
-    $sippdos = NULL;
+    $sippdos = 0;
     $idsippCode = $request['IDSIPPCode'];
 
     // Si tiene más de 4 caracteres
