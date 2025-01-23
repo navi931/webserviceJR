@@ -898,6 +898,19 @@ class Control extends Controller
       $request['TipoPago'] = '';
     }
 
+    $sippdos = NULL;
+    $idsippCode = $request['IDSIPPCode'];
+
+    // Si tiene más de 4 caracteres
+    if (strlen($idsippCode) > 4)
+      {
+          // Obtener los primeros 4 caracteres
+          $request['IDSIPPCode'] = substr($idsippCode, 0, 4);
+
+          // Obtener los caracteres a partir del quinto y asignarlos a $sippdos
+          $sippdos = intval(substr($idsippCode, 4));
+      }
+
     //Pasamos el filtro, nos mandaron todos los parámetros necesarios
 
     //Revisar si el las oficinas las tenemos para traducirlas
@@ -1335,7 +1348,7 @@ class Control extends Controller
          ,''
          ,''
          ,''
-         ,0
+         ,$sippdos
          ,'$parametros->Aerolinea'
          ,'$parametros->Vuelo'
          ,0
